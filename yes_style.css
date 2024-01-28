@@ -3,17 +3,17 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #F8C8DC;
+    background-color: #DC143C;
 }
 
 .header_text {
-    font-family: 'Nunito';
+    font-family: 'Times New Roman';
     font-size: 50px;
     font-weight: bold;
     color: white;
     text-align: center;
     margin-top: 20px;
-    margin-bottom: 0px;
+    margin-bottom: 35px;
 }
 
 .gif_container {
