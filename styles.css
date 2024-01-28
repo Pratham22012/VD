@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-color: #FF0000;
+    background-color: #DC143C;
 }
 
 #noButton {
@@ -18,7 +18,7 @@ body {
 }
 
 .header_text {
-    font-family: 'Nunito';
+    font-family: 'Times New Roman';
     font-size: 50px;
     font-weight: bold;
     color: black;
